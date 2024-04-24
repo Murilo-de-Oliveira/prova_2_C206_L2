@@ -1,6 +1,6 @@
 package org.example;
 
-public class Soldado {
+public abstract class Soldado {
     //Atributos
     public static int qtdSoldado; //atributo estático
     private String nome;
